@@ -22,20 +22,22 @@ This research is classified into 5 steps:
 4.	Experiment and Diagnose in order to achieve the best Hyper-parameters for building an efficient model.
 5.	Result Analysis for both training and test data.
 
+![alt text](https://github.com/shahriar-rahman/Prediction-of-Compressive-Strength-using-Multi-Layered-Perceptron/blob/main/img/git_img%20(2).jpg)
+
 Project Organization
 ------------
-
     ├── LICENSE
     │
     ├── README.md          <- The top-level README for developers using this project.
     │
     ├── data
-    │   ├── interim        <- Intermediate data that has been transformed.
-    │   ├── processed      <- The final, canonical data sets for modeling.
+    │   └── interim        <- Intermediate data that has been transformed.
+    │   └── processed      <- The final, canonical data sets for modeling.
     │   └── raw            <- The original, immutable data dump.
     │
     │
-    ├── models             <- Trained and serialized models, model predictions, or model summaries
+    ├── models             <- Trained and serialized models, model predictions, or model summaries  
+    │    └── mlp.pkl
     │
     ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
     │                         		initials, and a short `-` delimited description
@@ -58,12 +60,11 @@ Project Organization
     │   │
     │   ├── features       <- Scripts to turn raw data into features for modeling
     │   │   └── construct_features.py
-    │   │   ├──  feature_analysis.py
+    │   │   └──  feature_analysis.py
     │   │   └── feature_transformation.py
     │   │
-    │   ├── models         <- Scripts to train models and then use trained models to make
-    │   │   │                 predictions
-    │   │   ├── mlp_test.py
+    │   ├── models         <- Scripts to train models and then use trained models to make predictions         
+    │   │   └── mlp_test.py
     │   │   └── mlp_train.py
     │   │
     │   └── visualization  <- Scripts to create exploratory and results oriented visualizations

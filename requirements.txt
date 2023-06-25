@@ -1,9 +1,17 @@
 # local package
 -e .
 
-# external requirements
-click
-Sphinx
+# requirements
+os
+sys
+math
+pickle
+random
+pandas
+sklearn
+seaborn
+matplotlib
+missingno
 coverage
 awscli
 flake8
