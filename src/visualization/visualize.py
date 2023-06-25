@@ -1,9 +1,9 @@
-import matplotlib.pyplot as plt
-import seaborn as sb
-import numpy as np
 import math
-from matplotlib.font_manager import FontProperties
+import numpy as np
 import random as rnd
+import seaborn as sb
+import matplotlib.pyplot as plt
+from matplotlib.font_manager import FontProperties
 
 
 class Visualize:
