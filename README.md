@@ -91,6 +91,12 @@ Project Organization
 | Training | 0.077 | 0.86 |
 | Test     | 0.077 | 0.85 |
 
+* Training Loss Curve:
+![alt text](https://github.com/shahriar-rahman/Prediction-of-Compressive-Strength-using-Multi-Layered-Perceptron/blob/main/figures/ide_graphs/training_loss_curve.png)
+
+* Test Loss Curve:
+![alt text](https://github.com/shahriar-rahman/Prediction-of-Compressive-Strength-using-Multi-Layered-Perceptron/blob/main/figures/ide_graphs/test_loss_curve.png)
+
 ### Packages and Modules used:
 * os
 * sys
