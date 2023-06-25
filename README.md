@@ -96,14 +96,21 @@ Project Organization
 * Training Loss Curve:
 ![alt text](https://github.com/shahriar-rahman/Prediction-of-Compressive-Strength-using-Multi-Layered-Perceptron/blob/main/figures/ide_graphs/training_loss_curve.png)
 
-* Training set Ground truth vs Estimated values
-![alt text](https://github.com/shahriar-rahman/Prediction-of-Compressive-Strength-using-Multi-Layered-Perceptron/blob/main/figures/ide_graphs/test_fit_data.png)
+* Training set Ground truth vs Estimated values:
+![alt text](https://github.com/shahriar-rahman/Prediction-of-Compressive-Strength-using-Multi-Layered-Perceptron/blob/main/figures/ide_graphs/training_fit_data.png)
+
+* Training Error Density Plot:
+![alt text](https://github.com/shahriar-rahman/Prediction-of-Compressive-Strength-using-Multi-Layered-Perceptron/blob/main/figures/ide_graphs/training_error_distribution.png)
 
 * Test Loss Curve:
 ![alt text](https://github.com/shahriar-rahman/Prediction-of-Compressive-Strength-using-Multi-Layered-Perceptron/blob/main/figures/ide_graphs/test_loss_curve.png)
 
-* Test set Ground truth vs Estimated values
-![alt text](https://github.com/shahriar-rahman/Prediction-of-Compressive-Strength-using-Multi-Layered-Perceptron/blob/main/figures/ide_graphs/training_fit_data.png)
+* Test set Ground truth vs Estimated values:
+![alt text](https://github.com/shahriar-rahman/Prediction-of-Compressive-Strength-using-Multi-Layered-Perceptron/blob/main/figures/ide_graphs/test_fit_data.png)
+
+* Test Error Density Plot:
+![alt text](https://github.com/shahriar-rahman/Prediction-of-Compressive-Strength-using-Multi-Layered-Perceptron/blob/main/figures/ide_graphs/test_error_distribution.png)
+
 
 ### Packages and Modules used:
 * os
