@@ -4,6 +4,8 @@
 A predictive model is constructed demonstrating the possibilities of adapting a Multi-Layered 
 Perceptron to envisage the compressive strength of high-performance concrete. 
 
+![alt text](https://github.com/shahriar-rahman/Prediction-of-Compressive-Strength-using-Multi-Layered-Perceptron/blob/main/img/git_img%20(1).jpg)
+
 ### Objective 
 The primary incentive of this research is to:
 * Initiate an exploratory analysis of data to find the patterns of the feature that makes up the data.
