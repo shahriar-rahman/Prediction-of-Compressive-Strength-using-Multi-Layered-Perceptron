@@ -32,7 +32,7 @@ This research is classified into 5 steps:
 4.	Experiment and Diagnose in order to achieve the best Hyper-parameters for building an efficient model.
 5.	Result Analysis for both training and test data.
 
-Project Organization
+Project Organization:
 ------------
     ├── LICENSE
     │
@@ -84,10 +84,10 @@ Project Organization
 
 --------
 
-### Study Flowchart
+### Study Flowchart:
 ![alt text](https://github.com/shahriar-rahman/Prediction-of-Compressive-Strength-using-Multi-Layered-Perceptron/blob/main/img/flow_chart.JPG)
 
-### Results
+### Results:
 | Data Type | Mean Squared Error | R-Squared Error |
 |----------- | --------------------- | ------------------ |
 | Training | 0.077 | 0.86 |
