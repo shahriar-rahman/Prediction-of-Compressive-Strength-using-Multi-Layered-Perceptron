@@ -1,7 +1,9 @@
-default_template_project
-==============================
+============================================================
+# Prediction-of-Compressive-Strength-using-Multi-Layered-Perceptron
 
-This is a simple data science template project folder.
+<span style="font-family:Lucida Sans Unicode; color:#80450e; font-size: 25px"> Objective </span>
+A predictive model is constructed demonstrating the possibilities of adapting a Multi-Layered 
+Perceptron to envisage the compressive strength of high-performance concrete. 
 
 Project Organization
 ------------
