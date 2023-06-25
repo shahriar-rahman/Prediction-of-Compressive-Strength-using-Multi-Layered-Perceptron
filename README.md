@@ -6,13 +6,21 @@ Perceptron to envisage the compressive strength of high-performance concrete.
 
 ![alt text](https://github.com/shahriar-rahman/Prediction-of-Compressive-Strength-using-Multi-Layered-Perceptron/blob/main/img/git_img%20(1).jpg)
 
-### Objective 
+### Objective:
 The primary incentive of this research is to:
 * Initiate an exploratory analysis of data to find the patterns of the feature that makes up the data.
 * Conduct a comparative analysis of feature transformation algorithms to find the most suitable for utilization.
 * Experiment with different Hyper-parameters to obtain a well-organized tuning for the MLP model.
-* Locate a nominal approach to solve this problem to develop an efficient model capable of correctly predicting 
+* Locate a viable approach to solve this problem to develop an efficient model capable of correctly predicting 
 the strength of the concrete, given certain parameter exists.
+
+### Approach:
+This research is classified into 5 steps:
+1.	Identifying the problem and its data sources.
+2.	Constructing raw data into clean processed data and analyzing it using both Jupyter Notebooks and IDE.
+3.	Scaling the data with 3 different transformation algorithms for comparisons and us the best-suited one for this problem.
+4.	Experiment and Diagnose in order to achieve the best Hyper-parameters for building an efficient model.
+5.	Result Analysis for both training and test data.
 
 
 Project Organization
