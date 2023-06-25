@@ -82,7 +82,14 @@ Project Organization
 
 --------
 
-### 
+### Study Flowchart
+![alt text](https://github.com/shahriar-rahman/Prediction-of-Compressive-Strength-using-Multi-Layered-Perceptron/blob/main/img/flow_chart.JPG)
+
+### Results
+| Data Type | Mean Squared Error | R-Squared Error |
+|----------- | --------------------- | ------------------ |
+| Training | 0.077 | 0.86 |
+| Test     | 0.077 | 0.85 |
 
 ### Packages and Modules used:
 * os
