@@ -56,6 +56,8 @@ Project Organization
     │   └── ide_graphs           <- Generated using PyCharm IDE
     │   └── notebook_graphs    <- Generated using Jupyter Notebooks
     │
+    ├── img            <- Project related files
+    │
     ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
     │                         generated with `pip freeze > requirements.txt`
     │
