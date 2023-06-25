@@ -1,4 +1,4 @@
-============================================================
+========================================================================
 # Prediction-of-Compressive-Strength-using-Multi-Layered-Perceptron
 
 A predictive model is constructed demonstrating the possibilities of adapting a Multi-Layered 
@@ -11,7 +11,8 @@ The primary incentive of this research is to:
 * Initiate an exploratory analysis of data to find the patterns of the feature that makes up the data.
 * Conduct a comparative analysis of feature transformation algorithms to find the most suitable for utilization.
 * Experiment with different Hyper-parameters to obtain a well-organized tuning for the MLP model.
-* Locate a nominal approach to solve this problem to develop an efficient model capable of correctly predicting the strength of the concrete, given certain parameter exists.
+* Locate a nominal approach to solve this problem to develop an efficient model capable of correctly predicting 
+the strength of the concrete, given certain parameter exists.
 
 
 Project Organization
